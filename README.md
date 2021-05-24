@@ -35,7 +35,7 @@
 
 ### Languages I use most:
 
-<img align="left" alt="Status do Github de joelvitorniino" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelvitorniino&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook">
+<img alt="Status do Github de joelvitorniino" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelvitorniino&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook">
 
 ### Projects:
 
