@@ -38,3 +38,7 @@
 ### Projects:
 
 I am developer an framework CSS called HurricaneCSS
+
+### Packages on NPM:
+
+https://www.npmjs.com/package/mpg123-player
