@@ -1,10 +1,10 @@
 ### Hello, my name is Joel Vitor 
 
-## I am japanese and brazilian.
-- I started programming at 7/8;
-- I aim for projects that will be useful to other people;
+## I'm japanese and brazilian.
+- I started programming in 7/8;
+- I'm in favor for projects that will be useful to other people;
 - Learning about BackEnd;
-- My main language is JS, Java and Python;
+- My main language is TS, Java and Python;
 
 ### Languages and technologies:
 
