@@ -1,10 +1,10 @@
 ### Hello, my name is Joel Vitor 
 
-## I'm japanese and brazilian.
-- I started programming in 7/8;
-- I'm in favor for projects that will be useful to other people;
-- Learning about BackEnd;
-- My main language is TS, Java and Python;
+## I'm Japanese and Brazilian.
+- I started programming on July - 2008;
+- I'm in favor of projects that will be useful to other people;
+- - Learning about BackEnd; 
+- My native languages are TS, Java and Python;
 
 ### Languages and technologies:
 
@@ -30,7 +30,7 @@
 
 ### Projects:
 
-I am developer an framework CSS called HurricaneCSS
+I develop using the framework HurricaneCSS
 
 ### Packages on NPM:
 
