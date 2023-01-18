@@ -1,7 +1,7 @@
 ### Hello, my name is Joel Vitor 
 
 ## I'm Japanese and Brazilian.
-- I started programming on July - 2008;
+- I started programming at 7 years old;
 - I'm in favor of projects that will be useful to other people;
 - Learning about Full Stack Development; 
 - My native languages are TS, Java and Python;
