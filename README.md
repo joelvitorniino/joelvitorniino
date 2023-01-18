@@ -3,7 +3,7 @@
 ## I'm Japanese and Brazilian.
 - I started programming on July - 2008;
 - I'm in favor of projects that will be useful to other people;
-- - Learning about BackEnd; 
+- Learning about Full Stack Development; 
 - My native languages are TS, Java and Python;
 
 ### Languages and technologies:
