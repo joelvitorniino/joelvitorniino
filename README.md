@@ -4,7 +4,7 @@
 - I started programming at 7 years old;
 - I'm in favor of projects that will be useful to other people;
 - Learning about Full Stack Development; 
-- My native languages are TS, Java and Python;
+- My languages are TS, Java, Python and PHP;
 
 ### Languages and technologies:
 
